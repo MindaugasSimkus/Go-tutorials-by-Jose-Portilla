@@ -25,7 +25,6 @@ func main() {
 	fmt.Println("file2 :", file2)
 
 	//short declaration
-
 	dir3, _ := path.Split("css3/main3.css")
 	fmt.Println("dir3:", dir3)
 
